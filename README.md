@@ -21,8 +21,9 @@ https://drive.google.com/drive/folders/10ZKYKH5kMjmY94uFC_qjxJh8941D0DQu?usp=sha
 
 6.3 - Diagrama topológico
 
-_Se incluye archivo/imágen adjunta o link según lo requerido._
+_Se incluye  link según lo requerido._
 
----
+https://drive.google.com/file/d/1ZVgiZqz34epj-bBjO-sgpxDAomCPrDjf/view?usp=sharing
 
- Todos los archivos solicitados están disponibles en formato `.tar.gz` y divididos según las indicaciones del enunciado.
+
+
